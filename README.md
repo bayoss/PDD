@@ -18,15 +18,15 @@ Principles for Digital Development Refresh 
 Preamble 序言
 Principle 1: Understand the existing ecosystem 理解现有生态
 Principle 2: Share, reuse, and improve 共享、重用与改进
-Principle 3: Design with people
-Principle 4: Design for inclusion
-Principle 5: Build for sustainability
-Principle 6: Establish people-first data practices
-Principle 7: Create open and transparent practices
-Principle 8: Anticipate and mitigate harms
-Principle 9: Use evidence to improve outcomes
-Background
-Consultation Process
+Principle 3: Design with people 人本设计
+Principle 4: Design for inclusion 包容性设计
+Principle 5: Build for sustainability 可持续发展建设
+Principle 6: Establish people-first data practices 建立以人为本的数据实践
+Principle 7: Create open and transparent practices 建立开放透明的实践
+Principle 8: Anticipate and mitigate harms 预测并减轻数字危害 
+Principle 9: Use evidence to improve outcomes 基于证据改进成果 
+Background 背景
+Consultation Process 
 ```
 
 # License 许可 
