@@ -16,7 +16,7 @@ https://digitalprinciples.org/resources/
 
 Principles for Digital Development Refresh 
 - [Preamble 序言](0-preamble.md)
-- [Principle 1: Understand the existing ecosystem 理解现有生态](1-Understand-the-existing-ecosystem.md)
+- [Principle 1: Understand the existing ecosystem 理解现有生态](1-understand-the-existing-ecosystem.md)
 - [Principle 2: Share, reuse, and improve 共享、重用与改进](2-share-reuse-and-improve.md)
 - [Principle 3: Design with people 人本设计](3-design-with-people.md)
 - [Principle 4: Design for inclusion 包容性设计](4-design-for-inclusion.md)
